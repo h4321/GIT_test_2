@@ -1,0 +1,12 @@
+C:\dotTEST\Examples_2020.2.0.813\NET Framework\VS2019\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\bin\Debug\Parasoft.Dottest.Examples.Bank.dll
+C:\dotTEST\Examples_2020.2.0.813\NET Framework\VS2019\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\bin\Debug\Parasoft.Dottest.Examples.Bank.pdb
+C:\dotTEST\Examples_2020.2.0.813\NET Framework\VS2019\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.csprojAssemblyReference.cache
+C:\dotTEST\Examples_2020.2.0.813\NET Framework\VS2019\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.csproj.CoreCompileInputs.cache
+C:\dotTEST\Examples_2020.2.0.813\NET Framework\VS2019\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.dll
+C:\dotTEST\Examples_2020.2.0.813\NET Framework\VS2019\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.pdb
+C:\dotTEST_github\GIT_test_2\GIT_test_2\BankExample\Parasoft.Dottest.Examples.Bank\bin\Debug\Parasoft.Dottest.Examples.Bank.dll
+C:\dotTEST_github\GIT_test_2\GIT_test_2\BankExample\Parasoft.Dottest.Examples.Bank\bin\Debug\Parasoft.Dottest.Examples.Bank.pdb
+C:\dotTEST_github\GIT_test_2\GIT_test_2\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.csprojAssemblyReference.cache
+C:\dotTEST_github\GIT_test_2\GIT_test_2\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.csproj.CoreCompileInputs.cache
+C:\dotTEST_github\GIT_test_2\GIT_test_2\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.dll
+C:\dotTEST_github\GIT_test_2\GIT_test_2\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.pdb
